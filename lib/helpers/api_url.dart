@@ -1,5 +1,5 @@
 class ApiUrl {
-  static const String baseUrl = 'http://192.168.1.9/toko-api/public';
+  static const String baseUrl = 'http://localhost/toko-api/public';
 
   static const String registrasi = baseUrl + '/registrasi';
   static const String login = baseUrl + '/login';
